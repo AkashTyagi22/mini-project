@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<style>
+html { 
+  
+  backgroundcolor: #660000;
+}
+body { 
+  
+  background-color: #660000;
+}
+p.italic {
+    font-style: italic;
+}
+</style>
+<body align="center">
+
+<p>This website is created by Akash Tyagi</p>
+<p> For the purpose of submission</p>
+<p>of mini project </p/>
+<p>This is my first website<p/>
+	<p>This is created entirely by one person</p>
+		<p>To know more contact to mentioned about</p>
+			<p>for any help or asistance contact akashp</p>
+            <p>This website is created with the help of <p/>
+			<p>php and css</p>
+			<p>and also html</p>
+			<p>contact for your own website</p>
+</body>
+</html>
